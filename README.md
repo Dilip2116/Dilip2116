@@ -1,10 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am pritam</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dilip</h1>
 
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Java, React, MySql, .Net**
 
-<!-- - 📫 How to reach me **kadampritam17@gmail.com** -->
+<!-- - 📫 How to reach me **dilip.k3912@gmail.com** -->
 
 - 🎉 Let's connect [here](https://www.linkedin.com/in/kadampritam/).
 
