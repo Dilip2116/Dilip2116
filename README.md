@@ -6,7 +6,7 @@
 
 <!-- - 📫 How to reach me **dilip.k3912@gmail.com** -->
 
-- 🎉 Let's connect [here](https://www.linkedin.com/in/kadampritam/).
+- 🎉 Let's connect [here](https://www.linkedin.com/in/dilip-kumar-6640b1158/).
 
 <hr>
 <h2 align="center"> ⚡️ Technology Stacks </h2>
@@ -35,15 +35,15 @@
 
 <hr>
 
-![Profile views](https://gpvc.arturio.dev/kadampritam17)
+![Profile views](https://gpvc.arturio.dev/Dilip2116)
 
 <br />
 
 <!-- GitHub Readme Streak Stats & Most used languages - https://github.com/coding-geek21/github-readme-streak-stats -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kadampritam17&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadampritam17&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dilip2116&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip2116&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
  </p>
 
 <hr>
@@ -53,8 +53,8 @@
 <details>
   <summary>🔥 GitHub Streak</summary>
   <br/>
-   <a href="https://github.com/kadampritam17/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pritam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kadampritam17&theme=jolly&hide_border=true"/>
+   <a href="https://github.com/Dilip2116/github-readme-streak-stats">
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pritam's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilip2116&theme=jolly&hide_border=true"/>
   </a>
   <br/>
 </details>
@@ -62,11 +62,11 @@
 <details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="pritam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kadampritam17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="pritam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dilip2116&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <!--
-**kadampritam17/kadampritam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dilip2116/Dilip2116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
